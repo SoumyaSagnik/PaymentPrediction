@@ -1,2 +1,2 @@
-# PaymentPrediction
-ML model to predict the delay in payment of an invoice.
+# Payment-Prediction-Date
+Machine Learning model to predict payment dates of A/R invoices
